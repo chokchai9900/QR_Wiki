@@ -45,6 +45,7 @@
 | QR Code | Quick Response Code |
 | S | ตัวอักษร |
 
+สำหรับข้อมูล Object ต่างๆนั้น ผู้รวบรวมได้สรุปไว้เป็นตารางแล้ว - [Root Data in Root QR Code](https://github.com/chokchai9900/QR_Wiki/blob/master/Root%20Data.md)
 
 # Link Document & Testing Tool
 
