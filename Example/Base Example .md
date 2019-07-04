@@ -86,6 +86,8 @@ Ex : "0016A000000677010111"
 * หมายเลข PromptPay จะใช้หมายเลข PromptPay โดยตรง โดยจะมี ID ย่อย ดังนี้
 1. หากใช้หมายเลขโทรศัพท์ จะมี ID ย่อยคือ "01" นำหน้าด้วย 00 แล้วตามด้วยรหัสประเทศ คือ 66 (รหัสประเทศอ้างอิงจาก [COUNTRY CALLING CODE](https://countrycode.org) โดยประเทศไทยจะใช้ +66 แต่ในการสร้าง QR Code ไม่ต้องใส่ + เข้าไป )
 
+2.หากใช้หมายเลขบัตรประชาชน จะมี ID ย่อยคือ "02" และจะตามด้วยเลขบัตรปรชาชน 13 หลัก
+
 ## Merchant Category Code
 Merchant Category Code เป็นรหัสในการระบุประเภทของร้านค้า หรือผู้ขาย 
 (ในตอนนี้ ผู้เขียนค้นพบแค่ 3 ผู้ให้บริการ ที่เปิดเผย list คือ [VISA](http://usa.visa.com/download/corporate/resources/mcc_booklet.pdf) , [MasterCard](https://www.mastercard.us/content/dam/mccom/en-us/documents/rules/quick-reference-booklet-merchant-edition.pdf) , [CitiBank](https://www.citibank.com/tts/solutions/commercial-cards/assets/docs/govt/Merchant-Category-Codes.pdf))
