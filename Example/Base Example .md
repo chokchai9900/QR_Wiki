@@ -150,7 +150,7 @@ Ex : "63048888"
 
 เราจะใช้เบอร์ 0918695214 เป็นเบอร์สำหรับทดสอบ เพื่อจะได้เห็นภาพ
 
-![Picture](https://github.com/chokchai9900/QR-payment-info/blob/master/Capture.PNG)
+![Picture](https://github.com/chokchai9900/QR_Wiki/blob/master/Capture.PNG)
 
 หากผู้อ่านต้องการทดสอบ สามารถคลิกได้ที่ [ทดสอบสร้าง QR code PromptPay](https://promptpay.io)
 
