@@ -35,7 +35,7 @@ Object ที่จำเป็นในการสร้าง QR Code ใน 
 
 สังเกตว่าจะมีข้อแตกต่างจากแบบแรกคือ จะมี Transaction Amount ก็คือค่าเงินที่ต้องจ่าย โดยจะมี ID ของ  Object คือ "54" มีความยาวได้ไม่เกิน "99" โดยการทำงานนั้น เมื่อเราใช้ App เพื่อสแกนสำหรับจ่าย จะทำการ interface เป็นชื่อผู้ค้า ชื่อเมือง และจำนวนเงินที่ต้องจ่าย ตามรูป
 
-![Picture Ex02](https://github.com/chokchai9900/QR-payment-info/blob/master/Wiki_pic/ex02.PNG)
+![Picture Ex02](https://github.com/chokchai9900/QR_Wiki/blob/master/Wiki_pic/ex02.PNG)
 
 
 # แล้ว Object แต่ละอย่างมันคืออะไร มาจากไหน ⁉️
