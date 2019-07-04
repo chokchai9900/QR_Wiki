@@ -34,7 +34,7 @@ Object ที่จำเป็นในการสร้าง QR Code ใน 
 
 สังเกตว่าจะมี 3 ส่วนคือ Tip or Convenience Indicator, Value of Convenience Fee Fixed และ Value of Convenience Fee Percentage ที่เพิ่มเข้ามา ในส่วนนี้เราจะอธิบายในช่วง [แล้ว Object แต่ละอย่างมันคืออะไร มาจากไหน ⁉️](#แล้ว-Object-แต่ละอย่างมันคืออะไร-มาจากไหน-⁉️) หลักการทำงานของ Example นี้ ดูได้จากรูปภาพ
 
-![Picture Ex06](https://github.com/chokchai9900/QR-payment-info/blob/master/Wiki_pic/ex06.PNG)
+![Picture Ex06](https://github.com/chokchai9900/QR_Wiki/blob/master/Wiki_pic/ex06.PNG)
 
 # แล้ว Object แต่ละอย่างมันคืออะไร มาจากไหน ⁉️
 
