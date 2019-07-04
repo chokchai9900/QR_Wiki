@@ -39,7 +39,7 @@ Object ที่จำเป็นในการสร้าง QR Code ใน 
 * Merchant Account Information ID 02 คือการชำระเงินในระบบ Visa
 0Merchant Account Information ID 26 คือการชำระเงินในระบบ PPMI
 
-![Picture Ex03](https://github.com/chokchai9900/QR-payment-info/blob/master/Wiki_pic/ex03.PNG)
+![Picture Ex03](https://github.com/chokchai9900/QR_Wiki/blob/master/Wiki_pic/ex03.PNG)
 
 # แล้ว Object แต่ละอย่างมันคืออะไร มาจากไหน ⁉️
 
