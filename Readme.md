@@ -3,7 +3,7 @@
 * Author : Chokchai Homsombat
 * Created : 02-07-2019
 * Last Modified : 02-07-2019
-* Document version : 0.4 
+* Document version : 0.5 
   *   Ver 0.1 : สร้าง
   *   ver 0.2 : เพิ่มการทดสอบ
   *   ver 0.3 : เพิ่มตารางเปรียบเที่ยบระหว่าง Qr code ของระบบ PromptPay และ ระบบต่างประเทศ
