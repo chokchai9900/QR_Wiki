@@ -15,12 +15,14 @@
 ---
 
 ## Table of Contents
-- [Base Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Base%20Example%20.md)
-- [Transaction Amount Provided Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Transaction%20Amount%20Provided%20Example%20.md)
-- [Multiple Payment Network Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Multiple%20Payment%20Network%20Example.md)
-- [Fixed Convenience Fee Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Fixed%20Convenience%20Fee%20Example%20.md)
-- [Convenience Fee Percentage Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Convenience%20Fee%20Percentage%20Example%20.md)
-- [Prompt for Tip Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Prompt%20for%20Tip%20Example%20.md)
+ - [Local Payment VS Foreign Payment](https://github.com/chokchai9900/QR_Wiki/blob/master/LocalVsForeign.md)
+- All Example
+  - [Base Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Base%20Example%20.md)
+  - [Transaction Amount Provided Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Transaction%20Amount%20Provided%20Example%20.md)
+  - [Multiple Payment Network Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Multiple%20Payment%20Network%20Example.md)
+  - [Fixed Convenience Fee Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Fixed%20Convenience%20Fee%20Example%20.md)
+  - [Convenience Fee Percentage Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Convenience%20Fee%20Percentage%20Example%20.md)
+  - [Prompt for Tip Example](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Prompt%20for%20Tip%20Example%20.md)
 
 
 # Base Example Data Payload Format
