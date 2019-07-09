@@ -59,3 +59,4 @@
 * F. https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 * G. https://www.emvco.com/wp-content/plugins/pmpro-customizations/oy-getfile.php?u=wp-content/uploads/documents/EMVCo-Merchant-Presented-QR-Specification-v1-1.pdf
 * H. https://promptpay.io
+* I. https://medium.com/@sikawit/มีอะไรอยู่ใน-qr-promptpay-services-84ed6216a267
