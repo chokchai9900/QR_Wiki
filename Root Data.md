@@ -2,8 +2,8 @@
 
 | Name | ID | Format | Length | Presence | Comment |
 |------|----|--------|--------|----------|---------|
-| Payload Format Indicator | `"00"` | N | "02" | M | ดูต่อที่ - [Payload Format Indicator](https://github.com/chokchai9900/QR-payment-info/blob/master/README.md) |
-| Point of Initiation Method | `"01"` | N | "02" | O | ดูต่อที่ - [Point of Initiation Method](https://github.com/chokchai9900/QR-payment-info/blob/master/README.md) |
+| Payload Format Indicator | `"00"` | N | "02" | M | ดูต่อที่ - [Payload Format Indicator](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Base%20Example%20.md) |
+| Point of Initiation Method | `"01"` | N | "02" | O | ดูต่อที่ - [Point of Initiation Method](https://github.com/chokchai9900/QR_Wiki/blob/master/Example/Base%20Example%20.md) |
 | Visa Merchant Account Information | `"02"`-`"03"` | ans | var. up to "99" | O | Objects สงวนไว้เพื่อบริการของ Visa |
 | MasterCard Merchant Account Information | `"04"`-`"05"` | ans | var. up to "99" | O | Objects สงวนไว้เพื่อบริการของ Mastercard |
 | RFU for EMVCo | `"06"`-`"08"` | ans | var. up to "99" | O | Objects สงวนไว้เพื่อบริการของ EMVCo |
